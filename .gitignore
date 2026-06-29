@@ -1,0 +1,10 @@
+.next
+node_modules
+.env*.local
+data/*.db
+data/*.db-*
+npm-debug.log*
+pnpm-debug.log*
+.pnpm-store
+tsconfig.tsbuildinfo
+work/logs
